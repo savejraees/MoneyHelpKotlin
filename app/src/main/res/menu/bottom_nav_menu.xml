@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@id/dailyProfitFragment"
+        android:title="Daily Profit"
+        android:icon="@drawable/ic_profit_daily"/>
+    <item
+        android:id="@id/monthlyProfitFragment"
+        android:title="Monthly Profit"
+        android:icon="@drawable/ic_profit_month"/>
+    <item
+        android:id="@id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/ic_person"/>
+</menu>
